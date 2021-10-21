@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "invoiceautomation8e73a430_identitypool_8e73a430",
-    "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "invoic8e73a430",
-    "userPoolName": "invoiceautomation8e73a430_userpool_8e73a430",
+    "identityPoolName": "invoiceautomation901a6270_identitypool_901a6270",
+    "allowUnauthenticatedIdentities": true,
+    "resourceNameTruncated": "invoic901a6270",
+    "userPoolName": "invoiceautomation901a6270_userpool_901a6270",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -31,10 +31,10 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "invoic8e73a430_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "invoic901a6270_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "8e73a430",
-    "resourceName": "invoiceautomation8e73a430",
+    "sharedId": "901a6270",
+    "resourceName": "invoiceautomation901a6270",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [

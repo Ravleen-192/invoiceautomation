@@ -1,6 +1,6 @@
 {
   "auth": {
-    "invoiceautomation8e73a430": {
+    "invoiceautomation901a6270": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],

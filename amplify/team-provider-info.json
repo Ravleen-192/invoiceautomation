@@ -1,26 +1,26 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-invoiceautomation-dev-100336-authRole",
-            "UnauthRoleArn": "arn:aws:iam::211544418920:role/amplify-invoiceautomation-dev-100336-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::211544418920:role/amplify-invoiceautomation-dev-100336-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-invoiceautomation-dev-100336-deployment",
-            "UnauthRoleName": "amplify-invoiceautomation-dev-100336-unauthRole",
-            "StackName": "amplify-invoiceautomation-dev-100336",
-            "StackId": "arn:aws:cloudformation:us-east-1:211544418920:stack/amplify-invoiceautomation-dev-100336/e4985c80-315e-11ec-a419-12e5a88ba413",
-            "AmplifyAppId": "d13ue62rpsttif"
-        },
-        "categories": {
-            "auth": {
-                "invoiceautomation8e73a430": {}
-            },
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d13ue62rpsttif",
-                    "type": "manual"
-                }
-            }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-invoiceautomation-dev-100336-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211544418920:role/amplify-invoiceautomation-dev-100336-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211544418920:role/amplify-invoiceautomation-dev-100336-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-invoiceautomation-dev-100336-deployment",
+      "UnauthRoleName": "amplify-invoiceautomation-dev-100336-unauthRole",
+      "StackName": "amplify-invoiceautomation-dev-100336",
+      "StackId": "arn:aws:cloudformation:us-east-1:211544418920:stack/amplify-invoiceautomation-dev-100336/e4985c80-315e-11ec-a419-12e5a88ba413",
+      "AmplifyAppId": "d13ue62rpsttif"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d13ue62rpsttif",
+          "type": "manual"
         }
+      },
+      "auth": {
+        "invoiceautomation901a6270": {}
+      }
     }
+  }
 }
